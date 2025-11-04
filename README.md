@@ -5,13 +5,13 @@ To design and develop a Railway Management System to manage train details, passe
 
 # SRS (Procedure):
 
-1. Collect and analyze requirements for managing train, passenger, and ticket data.
+1.Identify the objectives and scope of the system.
 
-2. Design system architecture using DFDs, ER, and UML diagrams.
+2.Collect and analyze user and system requirements.
 
-3. Implement modules for booking, scheduling, and record management.
+3.Specify functional and non-functional requirements.
 
-4. Test the system for accuracy, efficiency, and data consistency.
+4.Prepare, review, and finalize the SRS document
 
 # DIAGRAMS:
 ```python
